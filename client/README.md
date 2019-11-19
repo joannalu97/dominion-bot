@@ -1,4 +1,4 @@
-# Documentating Client Interactions on the Console
+# Documentating Console Interactions on the Client
 
 ## Events
 ```
