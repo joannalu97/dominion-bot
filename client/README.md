@@ -15,3 +15,10 @@ Ongoing google doc: https://docs.google.com/document/d/1lcEguYjSl28Dcy8AEVSLFRhS
 ## Code
 ### Table Service
 - Represents lobby of before you click "start game" against an opponent
+### play-service.js
+- Contains functions related to playing cards
+```
+getActions()
+getBuys()
+...
+```
